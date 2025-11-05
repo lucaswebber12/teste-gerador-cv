@@ -39,6 +39,6 @@ Funcionalidades Principais
 Como Executar o Projeto
 
 1.  Certifique-se de ter o **XAMPP** instalado e o módulo **Apache** em execução.
-2. Clone ou baixe este repositório para dentro da pasta `htdocs` do seu XAMPP. (Ex: `C:\xampp\htdocs\teste-gerador-cv`)
-3. Abra seu navegador e acesse: `http://localhost/teste-gerador-cv`
+2. Clone ou baixe este repositório para dentro da pasta `htdocs` do seu XAMPP. (Ex: `C:\xampp\htdocs\gerador-cv`)
+3. Abra seu navegador e acesse: `http://localhost/gerador-cv`
 4.  Preencha o formulário e clique em "Gerar Currículo".
